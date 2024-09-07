@@ -24,6 +24,10 @@ npm run dev
 ```
 
 
+## Demo
+https://www.youtube.com/watch?v=aWOipnBZndM
+
+
 ## Techs Used
 * NEAR
 * Bitte
