@@ -1,0 +1,6 @@
+[submodule "p2pdl-frontend"]
+	path = p2pdl-frontend
+	url = https://github.com/smarthug/bitte-minter.git
+[submodule "p2pdl"]
+	path = p2pdl
+	url = https://github.com/yoontaeung/p2pdl.git
